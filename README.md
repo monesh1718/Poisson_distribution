@@ -76,7 +76,7 @@ print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 
 # Output : 
 
-<img width="722" height="280" alt="Screenshot 2026-08-25 155251" src="https://github.com/user-attachments/assets/7a4d1de9-7f8a-446e-9445-184883885bd7" /
+<img width="722" height="280" alt="Screenshot 2026-08-25 155251" src="https://github.com/user-attachments/assets/7a4d1de9-7f8a-446e-9445-184883885bd7" />
 
 
 # Results
